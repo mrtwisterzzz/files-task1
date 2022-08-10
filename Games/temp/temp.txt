@@ -1,0 +1,13 @@
+Каталог /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games создан
+Каталог /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/temp создан
+Каталог /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/src создан
+Каталог /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/res создан
+Каталог /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/savegames создан
+Каталог /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/src/main создан
+Каталог /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/src/test создан
+Каталог /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/res/drawables создан
+Каталог /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/res/vectors создан
+Каталог /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/res/icons создан
+Файл /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/src/main/Main.java создан
+Файл /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/src/main/Utils.java создан
+Файл /home/aleksey/Рабочий стол/Java курс/Java core/Files/task 1/src/Games/temp/temp.txt создан
